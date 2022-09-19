@@ -7,6 +7,7 @@ Time lock after staking:
 - 4-6 days - 50% can be unstaked
 - 6-8 days - 75% can be unstaked
 - After 8 days - 100% can be unstaked.
+
 This will work like a high tax though.
 - 0-2 days - locked
 - 2-4 days - 75% tax
